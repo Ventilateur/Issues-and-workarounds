@@ -1,2 +1,2 @@
 # Issues-and-workarounds
-A custom collections of workarounds for issues that happened to my PC
+My collections of workarounds for issues that happened to me, stupid but who knows, it may be useful anyway!
