@@ -1,4 +1,5 @@
 <h1>Pointer cheat sheet, because I am an idiot and I keep forgetting things</h1>
+
 ```c
 int* p;  // pointer uninitialized
 int c;   // variable uninitialized
